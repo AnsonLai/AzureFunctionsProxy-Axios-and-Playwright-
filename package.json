@@ -1,0 +1,14 @@
+{
+  "name": "playwrightazurefunctionsapi",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "axios": "^0.20",
+    "playwright-chromium": "1.4.1"
+  },
+  "devDependencies": {}
+}
